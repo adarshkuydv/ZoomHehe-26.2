@@ -1,0 +1,15 @@
+{
+	"toggleMode": false,
+	"defaultZoom": 4.0,
+	"minZoom": 1.0,
+	"maxZoom": 10.0,
+	"resetOnRelease": true,
+	"animationSpeed": 8.0,
+	"easingType": "EASE_OUT",
+	"mouseSensitivity": 1.0,
+	"scrollSensitivity": 0.5,
+	"cinematicCamera": false,
+	"smoothCamera": false,
+	"spyglassOverlay": false,
+	"zoomSound": false
+}
